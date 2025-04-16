@@ -1,5 +1,4 @@
-# Tran Hong Duong
-
+# Dương Trần ( YangTH)
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,terraform,ansible,docker,kubernetes,helm,gitlab,githubactions,jenkins,python,bash,go,java,php,js,mysql,postgres,mongodb,redis,linux,nginx,grafana,prometheus,elasticsearch,logstash,kibana,git&perline=10)](https://skillicons.dev)
 ---
 
